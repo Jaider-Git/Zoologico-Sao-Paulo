@@ -1,0 +1,61 @@
+#footer_principal .content_principal{
+    height: 100%;
+    font-size: 12px;
+}
+
+#footer_principal .logo, #footer_principal address, #footer_principal blockquote{
+    float: left;
+    font-style: normal;
+}
+
+#footer_principal .logo{
+    margin-top: 45px;
+    width: 132px;
+    height: 170px;
+    background-image: url(../assets/logo_footer.png);
+}
+
+#footer_principal address, #footer_principal blockquote{
+    margin-top: 35px;
+    color: #aa824e;
+    padding-top: 35px;
+}
+
+#footer_principal address{
+    margin-left: 50px;
+}
+
+#footer_principal blockquote{
+    width: 363px;
+    font-style: italic;
+    text-align: right;
+    float: right;
+    background-image: url(../assets/comillas.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#footer_principal blockquote h3{
+    font-style: normal;
+    color: #aa824e;
+}
+
+#footer_principal .linea{
+    position: relative;
+    float: left;
+    width: 520px;
+    border-bottom: 1px dashed #aa824e;
+    margin-top: 44px;
+    margin-left: 50px;
+}
+
+#footer_principal small{
+    position: relative;
+    float: left;
+    width: 510px;
+    text-align: center;
+    margin-top: 23px;
+    font-size: 12px;
+    margin-left: 50px;
+    color: #aa824e;
+}
