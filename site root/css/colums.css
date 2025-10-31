@@ -1,67 +1,67 @@
-.col{
+.col {
     position: relative;
     float: left;
-    
+
 }
 
-.col header{
+.col header {
     margin-bottom: 15px;
 }
 
-.col header h2{
+.col header h2 {
     font-size: 20px;
     color: #ce1616;
 }
 
-.col header h3{
+.col header h3 {
     font-size: 14px;
     color: #ce1616;
 }
 
-.col article{
+.col article {
     font-size: 14px;
     padding-bottom: 15px;
     margin-top: 10px;
     border-bottom: 1px dashed #666;
 }
 
-.col p{
+.col p {
     color: #aa824e;
 }
 
-.col article :last-of-type{
+.col article :last-of-type {
     border: 0px !important;
 }
 
-.col article header{
+.col article header {
     margin-bottom: 8px;
 }
 
-#noticias{
+#noticias {
     width: 195px;
     margin-left: 30px;
 }
 
-#animal_mes{
+#animal_mes {
     width: 438px;
     margin-left: 30px;
 }
 
-#animal_mes img{
+#animal_mes img {
     width: 438px;
     height: 253px;
 }
 
-#redes_sociales{
+#redes_sociales {
     margin-left: 20px;
 }
 
-#redes_sociales ul li{
+#redes_sociales ul li {
     list-style: none;
     margin-bottom: 10px;
 }
 
-#redes_sociales ul li .icon{
+#redes_sociales ul li .icon {
     display: inline-block;
     margin-right: 10px;
     width: 21px;
@@ -70,16 +70,16 @@
     background-size: 100%;
 }
 
-#redes_sociales ul li a div{
+#redes_sociales ul li a div {
     display: inline-block;
 }
 
-#redes_sociales .icon{
+#redes_sociales .icon {
     height: 17px;
-    
+
 }
 
-#pinguino{
+#pinguino {
     width: 154px;
     height: 235px;
     z-index: 1000;

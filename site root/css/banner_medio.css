@@ -1,4 +1,4 @@
-#banner{
+#banner {
     position: relative;
     width: 912px;
     height: 63px;
@@ -6,20 +6,21 @@
     background-image: url(../assets/bge.png);
 }
 
-#banner .text1, #banner .text2{
+#banner .text1,
+#banner .text2 {
     position: relative;
     display: inline-block;
     margin-top: 15px;
     font-weight: bold;
 }
 
-#banner .text1{
+#banner .text1 {
     font-size: 24px;
     margin-left: 23px;
     color: #aa824e;
 }
 
-#banner .text2{
+#banner .text2 {
     font-size: 16px;
     margin-left: 53px;
     color: #fff;
